@@ -1,0 +1,43 @@
+{
+  "name": "swl-core",
+  "version": "2.0.3",
+  "description": "SWLS MX — Motor avançado com arquitetura modular, auto-compilação e linter integrado.",
+  "main": "lib/compiler.js",
+
+  "bin": {
+    "swls": "./cli/swls.js"
+  },
+
+  "files": [
+    "lib",
+    "cli",
+    "README.md",
+    "LICENSE"
+  ],
+
+  "scripts": {
+    "test": "node tests/runner.js",
+    "postinstall": "node system/install-assets.js"
+  },
+
+  "keywords": [
+    "css",
+    "compiler",
+    "swls",
+    "stylesheet",
+    "portuguese",
+    "lint"
+  ],
+
+  "author": "Maycon Developer",
+  "license": "MIT",
+
+  "engines": {
+    "node": ">=16"
+  },
+
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "ws": "^8.18.0"
+  }
+}

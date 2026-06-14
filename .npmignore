@@ -1,0 +1,10 @@
+node_modules/
+vscode-extension/
+docs/
+.git/
+.github/
+.vscode/
+tests/
+test/
+coverage/
+*.log
