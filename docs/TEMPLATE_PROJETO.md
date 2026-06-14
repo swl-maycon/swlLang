@@ -1,4 +1,4 @@
-# Estrutura Base de Projeto — SWLS Core MX v2.0.0
+# Estrutura Base de Projeto — SWLS Core MX v2.0.4
 
 Diretrizes de arquitetura de diretórios e arquivos recomendada para inicialização de softwares.
 
