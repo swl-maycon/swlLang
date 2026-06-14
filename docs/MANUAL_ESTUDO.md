@@ -1,4 +1,4 @@
-# Manual de Treinamento e Estudo Prático — SWLS Core MX v2.0.0
+# Manual de Treinamento e Estudo Prático — SWLS Core MX v2.0.4
 
 Guia estruturado para capacitação e aprendizado profissional da linguagem SWLS.
 
