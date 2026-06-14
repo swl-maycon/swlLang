@@ -1,4 +1,4 @@
-# Índice de Navegação Documental — SWLS Core MX v2.0.0
+# Índice de Navegação Documental — SWLS Core MX v2.0.4
 
 Mapeamento centralizado e roteamento das especificações técnicas do ecossistema.
 
