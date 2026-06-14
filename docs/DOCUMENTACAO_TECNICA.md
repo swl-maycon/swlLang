@@ -1,4 +1,4 @@
-# Especificação Técnica de Arquitetura e Implementação — SWLS Core MX v2.0.0
+# Especificação Técnica de Arquitetura e Implementação — SWLS Core MX v2.0.4
 
 Documentação arquitetural de software, descrição de subsistemas e assinaturas da API pública do compilador.
 
