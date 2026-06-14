@@ -1,4 +1,4 @@
-# Sumário Executivo — Documentação SWLS Core MX v2.0.0
+# Sumário Executivo — Documentação SWLS Core MX v2.0.4
 
 Visão geral da estrutura de documentação do ecossistema.
 
