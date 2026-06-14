@@ -1,4 +1,4 @@
-# Stellar Web Language Styling (SWLS) — Core MX v2.0.0
+# Stellar Web Language Styling (SWLS) — Core MX v2.0.4
 
 Mecanismo declarativo de compilação e estilização modular de alto desempenho, projetado para o processamento otimizado de arquiteturas de folhas de estilo modernas. O SWLS Core MX elimina a necessidade de chaves e delimitadores de fim de linha, introduzindo escopo léxico isolado profundo, avaliação condicional em tempo de compilação, loops expansíveis baseados em iteração matemática e gerenciamento nativo de componentes com herança estrutural.
 
@@ -58,7 +58,7 @@ projeto-escopo/
 
 ---
 
-## Catálogo de Sintaxe Oficial (MX v2.0.0)
+## Catálogo de Sintaxe Oficial (MX v2.0.4)
 
 ### 1. Declaração de Variáveis Globais (Índice `_gpai.swls`)
 
