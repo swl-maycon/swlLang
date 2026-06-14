@@ -1,6 +1,6 @@
 {
   "name": "swl-core",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "SWLS MX — Motor avançado com arquitetura modular, auto-compilação e linter integrado.",
   "main": "lib/compiler.js",
 
