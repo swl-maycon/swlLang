@@ -1,4 +1,4 @@
-# Guia de Inicialização Rápida e Perguntas Frequentes (FAQ) — SWLS Core MX v2.0.0
+# Guia de Inicialização Rápida e Perguntas Frequentes (FAQ) — SWLS Core MX v2.0.4
 
 ---
 
